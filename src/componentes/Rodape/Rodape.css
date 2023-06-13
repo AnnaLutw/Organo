@@ -1,0 +1,21 @@
+.footer{
+    background-color: #1e0d44;
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+}
+.footer .redesSociais{
+   display: flex;
+   align-items: center;
+    
+ }
+ .footer img{
+   padding: 10px;
+     
+  }
+.footer .escrita{
+   color: white;
+   
+}
