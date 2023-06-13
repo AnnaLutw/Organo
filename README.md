@@ -1,4 +1,4 @@
-# Projeto para jogadores entrearem nos seus respectivos jogos
+# Projeto para jogadores entrarem nos seus respectivos jogos
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
